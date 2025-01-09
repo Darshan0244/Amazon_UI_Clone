@@ -6,4 +6,4 @@ You can check out the live version of the Amazon UI Clone here: [ https://darsha
 
 ## 🛠 Tech Stack
 HTML5: For the structure and content of the web pages.
-CSS3: For styling, layout, and responsiveness of the clone.
+CSS3: For styling, layout of the clone.
